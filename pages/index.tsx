@@ -5,11 +5,9 @@ function Home() {
   return (
     <Page>
       <section className="flex flex-col gap-6">
-        <Text variant="h1">mint-nft usage example</Text>
+        <Text variant="h1">SOFA 交易平台</Text>
         <Text>
-          This example shows how to connect a Metamask wallet with a Next.js app
-          and how to mint NFTs using Moralis, a popular backend service provider
-          for Web3 apps.
+          This web application provides solutions to quantitively and automatically trade via SOFA.org using a Metamask wallet.
         </Text>
       </section>
 
