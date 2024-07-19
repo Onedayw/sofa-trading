@@ -11,9 +11,9 @@ function App({ Component, pageProps }: AppProps) {
 
   return (
     <Layout
-      title="mint-nft"
-      path="solutions/mint-nft"
-      description="How to mint an NFT"
+      title="sofa-trading"
+      path="solutions/sofa-trading"
+      description="Sofa Trading Automation"
     >
       <MoralisProvider
         appId={process.env.NEXT_PUBLIC_APP_ID!}
