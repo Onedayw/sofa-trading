@@ -15,7 +15,7 @@ export const ConnectWallet: React.VFC = () => {
       <Text variant="h2">Connecting your wallet</Text>
       <div className="mt-2 items-start justify-between">
         <Text className="my-6">
-          In order to mint your NFT you must connect your wallet using the{' '}
+          In order to start trading you must connect your wallet using the{' '}
           <a
             className="underline"
             href="https://metamask.io/"
